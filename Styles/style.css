@@ -195,3 +195,35 @@ content p{
     padding: 5px 20px;
     margin-bottom: 24px;
 }
+
+/* footter styles starts.................*/
+
+
+footer{
+    margin: 50px;
+    width: 1140px;
+}
+.footer-logo{
+    font-size: 100px;
+    color: #4E47FF;
+    text-align: center;
+    font-weight: 800;
+    padding: 50px 0 0 50px;
+}
+.footer-description{
+  color: rgba(37, 36, 50, 0.5);
+  text-align: center;
+}
+.footer-items{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.footer-items a{
+    text-decoration: none;
+    list-style: none;
+}
+nav{
+    list-style: none;
+    display: flex;
+}
