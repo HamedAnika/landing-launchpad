@@ -141,3 +141,57 @@ content p{
 }
 /*....focus section starts.........*/
 
+.focus{
+    text-align: center;
+    margin: 80px;
+}
+.class-intro{
+    font-size: 38px;
+    font-weight: bold;
+}
+.class-description{
+   
+    color: rgba(37, 36, 50, 0.5);;
+}
+.focus-image{
+    width: 840px;
+    border-radius: 20px;
+}
+
+/*contract section styles starts ....................*/
+
+
+.contract-page{
+    margin: 80px;
+    display: flex;
+    
+}
+.contact-intro{
+    font-size: 97px;
+    font-weight: bold;
+}
+.contact{
+    width: 50%;
+}
+.form-input{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 5px 20px;
+    margin-bottom: 24px;
+
+}
+.contact-button{
+    display: block;
+    width: 100%;
+}
+.texarea-input{
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 5px 20px;
+    margin-bottom: 24px;
+}
