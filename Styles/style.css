@@ -54,3 +54,35 @@ align-items: center;
     font-weight: bold;
     color: #252432;
 }
+
+/*.............banner section ended*................*/
+
+/*............styles-content section*...............*/
+
+main{
+    margin: 50px 110px 60px 140px;
+}
+article{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    height: 330px;
+}
+.article-header{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+.article-content{
+    width: 350px;
+}
+content p{
+    color: rgba(37, 36, 50, 0.5);
+    
+}
+.content-image{
+    border-radius: 48px;
+    width: 100%;
+}
+
+/*...........styles content ended..............*/
